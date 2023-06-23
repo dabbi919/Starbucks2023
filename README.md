@@ -1,6 +1,6 @@
-[![스타벅스](./img/logo_top.png)](dabbi919.github.io/Starbucks2023)
+[![스타벅스](./img/logo_top.png)](https://storied-gumdrop-5ce02e.netlify.app)
 
-[해당페이지로 이동]([dabbi919.github.io/Starbucks2023](https://storied-gumdrop-5ce02e.netlify.app))
+[해당페이지로 이동](https://storied-gumdrop-5ce02e.netlify.app)
 
 # 프로젝트 명 : Starbucks Clone Codding
 
